@@ -1,0 +1,8 @@
+步骤：1.git clone github地址
+	  2.git add .
+	  3.git commit -m "介绍"
+	  4.git push origin master
+
+Q: remote: Invalid username or password.
+   fatal: Authentication failed for 'https://github.com/project/project.git'
+A: 执行git pull的时候，会出现用户名或者密码错误的提示，解决办法，执行：git push
