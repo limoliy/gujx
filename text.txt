@@ -6,3 +6,5 @@
 Q: remote: Invalid username or password.
    fatal: Authentication failed for 'https://github.com/project/project.git'
 A: 执行git pull的时候，会出现用户名或者密码错误的提示，解决办法，执行：git push
+
+1111
