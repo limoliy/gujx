@@ -1,11 +1,12 @@
-²½Öè£º1.git clone githubµØÖ·
+æ­¥éª¤ï¼š1.git clone githubåœ°å€
 	  2.git add .
-	  3.git commit -m "½éÉÜ"
+	  3.git commit -m "ä»‹ç»"
 	  4.git push origin master
 
 Q: remote: Invalid username or password.
    fatal: Authentication failed for 'https://github.com/project/project.git'
-A: Ö´ĞĞgit pullµÄÊ±ºò£¬»á³öÏÖÓÃ»§Ãû»òÕßÃÜÂë´íÎóµÄÌáÊ¾£¬½â¾ö°ì·¨£¬Ö´ĞĞ£ºgit push
+A: æ‰§è¡Œgit pullçš„æ—¶å€™ï¼Œä¼šå‡ºç°ç”¨æˆ·åæˆ–è€…å¯†ç é”™è¯¯çš„æç¤ºï¼Œè§£å†³åŠæ³•ï¼Œæ‰§è¡Œï¼šgit push
 
 1111
 2222
+33333
