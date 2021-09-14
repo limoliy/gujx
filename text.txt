@@ -8,3 +8,4 @@ Q: remote: Invalid username or password.
 A: 执行git pull的时候，会出现用户名或者密码错误的提示，解决办法，执行：git push
 
 1111
+2222
